@@ -1,2 +1,2 @@
 # DonorsChoose
-Implemented various classification algorithms on DonorsChoose.org dataset
+Implemented various classification algorithms on DonorsChoose.org dataset.
