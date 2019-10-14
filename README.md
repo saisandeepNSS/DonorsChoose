@@ -1,3 +1,6 @@
+>If you are unable to view the IPYNB notebook in GitHub, Please copy the GitHub notebook URL and paste it in [nbviewer](https://nbviewer.jupyter.org/).
+
+
 ### DonorsChoose.org dataset Analysis and Modelling Using Various Machine Learning Models
 
 DonorsChoose.org receives hundreds of thousands of project proposals each year for classroom projects in need of funding. Right now, a large number of volunteers is needed to manually screen each submission before it's approved to be posted on the DonorsChoose.org website.
